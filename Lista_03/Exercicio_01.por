@@ -26,7 +26,7 @@ programa
 			escreva("Jogador 1 venceu")
 		}senao{
 			escreva("Jogador 2 venceu")
-		}	
+		}
 	}
 }
 /* $$$ Portugol Studio $$$ 
@@ -34,7 +34,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 342; 
+ * @POSICAO-CURSOR = 795; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = {jogador1, 6, 9, 8}-{jogador2, 6, 19, 8};
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
