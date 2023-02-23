@@ -32,14 +32,14 @@ programa
 			escreva("A compra não possui frete grátis, valor minimo de R$" + valorMinParaPromocao + " não atingido.")
 		}
 		
-	}	
+	}
 }
 /* $$$ Portugol Studio $$$ 
  * 
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 256; 
+ * @POSICAO-CURSOR = 938; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
