@@ -11,11 +11,11 @@ programa {
 	    inteiro somaDiagonalSegundaria = 0
 	    inteiro escolhaJogador
 	    
-	    escreva("Digite 1 para Diagonal Principal ou 2 para Diagonal Segundaria, Fa�a sua aposta: ")
+	    escreva("Digite 1 para Diagonal Principal ou 2 para Diagonal Segundaria, Faça sua aposta: ")
 	    leia(escolhaJogador)
 	    
 	    enquanto(escolhaJogador != 1 e escolhaJogador != 2){
-	        escreva("Informa��o invalida, digite 1 para Diagonal Principal ou 2 para Diagonal Segundaria: ")
+	        escreva("Informação invalida, digite 1 para Diagonal Principal ou 2 para Diagonal Segundaria: ")
 	        leia(escolhaJogador)
 	    }
 	    
@@ -58,6 +58,17 @@ programa {
 	    }senao{
 	        escreva("Apostou mal, perdeu o jogo")
 	    }
-	    
 	}
 }
+
+/* $$$ Portugol Studio $$$ 
+ * 
+ * Esta seção do arquivo guarda informações do Portugol Studio.
+ * Você pode apagá-la se estiver utilizando outro editor.
+ * 
+ * @POSICAO-CURSOR = 2253; 
+ * @PONTOS-DE-PARADA = ;
+ * @SIMBOLOS-INSPECIONADOS = ;
+ * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
+ * @FILTRO-ARVORE-TIPOS-DE-SIMBOLO = variavel, vetor, matriz, funcao;
+ */
